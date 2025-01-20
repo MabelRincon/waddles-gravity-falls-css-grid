@@ -27,6 +27,7 @@ The repository includes the following:
 
 - **HTML (`index.html`)**: The structure of the page, implementing semantic elements to organize content.
 - **CSS (`style.css`)**: All styling, with a focus on using **CSS Grid** for layout design.
+- **WordArt**: The specific font from Gravity Falls has been downloaded and imported. The text in title container has been stylish to get borders and shadow. 
 - **Images**: Assets related to the theme of Waddles and Gravity Falls.
 - **README.md**: This file, providing details about the exercise and the project.
 
