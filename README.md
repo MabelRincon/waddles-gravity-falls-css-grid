@@ -43,5 +43,5 @@ Feedback is welcome! Feel free to open issues or submit pull requests to suggest
 
 ------
 
-**Author**: Mabel Rincón
+**Author**: Mabel Rincon
 *Inspired by the loveable Waddles from Gravity Falls!*
